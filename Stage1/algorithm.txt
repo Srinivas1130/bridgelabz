@@ -1,0 +1,4 @@
+Step 1 --> Using for loop, Listing/Filtering only java, py, js files and Finding names of that files.
+Step 2 --> Initially i'll delete exesting folders and Creating a new-folder with same name as Listed/Filtered file name.
+Step 3 --> Then i'll delete exesting folders and Creating a new-folder with same name as extension name(i.e .java,.py,.js).
+Step 4 --> then Moved original x.java,y.py,z.js files to a specificied folder(i.e .java,.py,.js).
